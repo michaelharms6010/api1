@@ -1,4 +1,4 @@
-#Node API 1 Nodes
+# Node API 1 Nodes
 
 I love the new Kanye
 -created repository on Git
@@ -10,5 +10,9 @@ I love the new Kanye
 -install "nodemon" as a dev dependency => "npm i  -D nodemon"
 -add "index.js" to root folder w/console log
 -run API using "npm run server"
+
+## Basic Express Sever
+-instal express as a production dependency => "npm i express"
+
 
 _Le epic squat shoutout_
