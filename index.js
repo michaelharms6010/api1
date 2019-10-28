@@ -1,0 +1,1 @@
+console.log("\nI'm cool\n")
